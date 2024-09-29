@@ -1,0 +1,44 @@
+{
+	"fileVersion": 15,
+	"versionSuffix": "",
+	"title": "AimTrainer",
+	"description": "",
+	"keyArt": "",
+	"docsUrl": "",
+	"kind": "Island",
+	"compatibilityVersion": "31.20",
+	"editorPermissions": [],
+	"epicApp": "",
+	"sortPriority": 0,
+	"featureSet": "",
+	"plugins": [
+		{
+			"name": "AimTrainer",
+			"bIsRoot": true,
+			"bIsPublic": false
+		}
+	],
+	"dataSets":
+	{
+		"matchmaking":
+		{
+			"maxPlayers": 16,
+			"maxTeamCount": 1,
+			"maxTeamSize": 16,
+			"maxSocialPartySize": 16,
+			"allowJoinInProgress": true,
+			"allowSquadFillOption": false,
+			"islandQueuePrivacy": "Unrestricted",
+			"version": 1
+		}
+	},
+	"bindings":
+	{
+		"projectId": "3e1f44e6-4802-e9fe-54f4-4abd020fdc6a",
+		"projectVersePath": "",
+		"modules":
+		{
+			"AimTrainer": "a83cf091-4330-c753-07a6-fba3ecebfa67"
+		}
+	}
+}
