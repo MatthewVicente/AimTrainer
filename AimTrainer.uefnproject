@@ -6,7 +6,7 @@
 	"keyArt": "",
 	"docsUrl": "",
 	"kind": "Island",
-	"compatibilityVersion": "31.20",
+	"compatibilityVersion": "31.30",
 	"editorPermissions": [],
 	"epicApp": "",
 	"sortPriority": 0,
@@ -30,6 +30,9 @@
 			"allowSquadFillOption": false,
 			"islandQueuePrivacy": "Unrestricted",
 			"version": 1
+		},
+		"experimental":
+		{
 		}
 	},
 	"bindings":
